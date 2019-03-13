@@ -1,2 +1,2 @@
 # MyProjects
-简单框架模板
+简单Spring Boot框架模板
