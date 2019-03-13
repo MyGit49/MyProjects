@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "person",
+      "type": "com.example.springboot.PersonProperties",
+      "sourceType": "com.example.springboot.PersonProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "person.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.example.springboot.PersonProperties"
+    },
+    {
+      "name": "person.name",
+      "type": "java.lang.String",
+      "sourceType": "com.example.springboot.PersonProperties"
+    }
+  ],
+  "hints": []
+}
